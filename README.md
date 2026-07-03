@@ -1,128 +1,149 @@
-# Hi, I'm Pushkal Kumar 👋
+<h1 align="center">Hi 👋, I'm Pushkal Kumar</h1>
 
+<p align="center">
 Building AI-powered software, mobile applications, and research-driven technology.
+</p>
 
-I'm a rising senior interested in machine learning, software engineering, and building products that solve meaningful problems. My work spans cross-platform mobile development, AI research, full-stack systems, and developer tooling.
-
----
-
-## About
-
-* 📱 Building **Pulse** — an all-in-one platform for FBLA chapters featuring event management, practice testing, announcements, analytics, and engagement tools.
-* 🧠 First-author researcher with papers accepted to **NeurIPS**, **AAAI**, and **HICSS** workshops.
-* 🔬 Conducting AI research with a Washington State University professor on a patent-pending project involving machine learning and computer vision.
-* 🏆 Top 4 Internationally at **DECA ICDC** in Finance Operations Research.
-* 🥇 FBLA National Champion - Mobile Application Development.
-* 💡 Passionate about turning ambitious ideas into polished software that people actually use.
-* 🚀 Seeking opportunities in Software Engineering, AI/ML, Mobile Development, and Product Engineering.
+<p align="center">
+  Rising Senior • Software Engineer • AI Researcher • Mobile Developer
+</p>
 
 ---
 
-# Tech Stack
+## 🚀 About Me
+
+- 📱 Building **Pulse** — an all-in-one operating system for FBLA chapters.
+- 🧠 First-author researcher with papers accepted to **NeurIPS**, **AAAI**, and **HICSS** workshops.
+- 🔬 Conducting AI research with a Washington State University professor on a **patent-pending** machine learning & computer vision project.
+- 🥇 **FBLA National Champion** — Mobile Application Development
+- 🏆 **Top 4 Internationally** — DECA ICDC Finance Operations Research
+- 💡 Passionate about building software people actually use.
+- 🚀 Interested in Software Engineering, AI/ML, Mobile Development, and Product Engineering.
+
+---
+
+# 💻 Tech Stack
 
 ### Languages
 
-Python • Dart • Swift • TypeScript • JavaScript • Java • C++ • SQL
+<p>
+<img src="https://skillicons.dev/icons?i=python,dart,swift,ts,js,java,cpp" />
+</p>
 
 ### Mobile
 
-Flutter • SwiftUI • Firebase • Riverpod
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,firebase" />
+</p>
+
+**SwiftUI • Riverpod**
 
 ### Frontend
 
-React • Next.js • Tailwind CSS • HTML • CSS
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
+</p>
 
 ### Backend
 
-Node.js • Express • FastAPI • REST APIs
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+</p>
 
 ### AI / Machine Learning
 
-PyTorch • TensorFlow • OpenCV • scikit-learn • NumPy • Pandas
+```
+PyTorch • TensorFlow • OpenCV • scikit-learn
+NumPy • Pandas
+```
 
 ### Databases
 
-Firestore • PostgreSQL • SQLite
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,sqlite,firebase" />
+</p>
 
 ### Cloud & DevOps
 
-Firebase • Google Cloud • AWS • GitHub Actions
+<p>
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,githubactions,git" />
+</p>
 
 ### Tools
 
-Git • GitHub • Docker • Figma • Xcode • VS Code
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,figma,xcode" />
+</p>
 
 ---
 
-# Featured Projects
+# ⭐ Featured Projects
 
-## Pulse
+## 📱 Pulse
 
-An all-in-one operating system for FBLA chapters.
+> All-in-one operating system for FBLA chapters.
 
-Built to modernize chapter management by bringing communication, event registration, competition preparation, notifications, and analytics into a single platform.
+Modernizes chapter management by combining communication, competition preparation, analytics, notifications, and event management into a single cross-platform application.
 
-**Highlights**
+### Features
 
-* Event registration
-* Practice exams
-* Push notifications
-* Member analytics
-* Chapter dashboard
-* Firebase backend
-* Cross-platform Flutter application
+- 📅 Event Registration
+- 📝 Practice Exams
+- 🔔 Push Notifications
+- 📊 Member Analytics
+- 👥 Chapter Dashboard
+- ☁️ Firebase Backend
 
-**Stack**
+**Built With**
 
-Flutter • Firebase • Cloud Functions • Firestore
-
----
-
-## AI Research
-
-Research focused on applying machine learning to real-world problems.
-
-Areas include:
-
-* Computer Vision
-* Educational Technology
-* Healthcare AI
-* Large Language Models
-* Applied Machine Learning
-
-Publications accepted at NeurIPS & AAAI.
----
-
-## Developer Projects
-
-A growing collection of software projects including:
-
-* Mobile applications
-* Full-stack web platforms
-* AI tools
-* Automation utilities
-* Research code
-* Developer tooling
+`Flutter` • `Firebase` • `Cloud Functions` • `Firestore`
 
 ---
 
-# Current Focus
+## 🤖 AI Research
 
-### Building
+Applying machine learning to real-world problems.
 
-* Pulse
-* AI-powered applications
-* Cross-platform mobile software
+### Areas
 
-### Research
+- Computer Vision
+- Educational Technology
+- Healthcare AI
+- Large Language Models
+- Applied Machine Learning
 
-* Machine Learning
-* Computer Vision
-* LLM Applications
+**Publications**
 
-### Learning
+- NeurIPS Workshop
+- AAAI Workshop
+- HICSS
 
-* Distributed Systems
-* Native iOS Development
-* System Design
-* High-performance Backend Engineering
+---
+
+## ⚙️ Developer Projects
+
+A growing collection of:
+
+- 📱 Mobile Apps
+- 🌐 Full-Stack Platforms
+- 🤖 AI Tools
+- ⚡ Automation Utilities
+- 🔬 Research Code
+- 🛠️ Developer Tooling
+
+---
+
+# 🎯 Current Focus
+
+| Building | Research | Learning |
+|-----------|----------|----------|
+| Pulse | Machine Learning | Distributed Systems |
+| AI Applications | Computer Vision | Native iOS |
+| Mobile Software | LLM Applications | System Design |
+| Developer Tools | AI Research | High-Performance Backends |
+
+---
+
+<p align="center">
+Always building. Always learning.
+</p>
