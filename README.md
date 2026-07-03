@@ -1,149 +1,72 @@
-<h1 align="center">Hi 👋, I'm Pushkal Kumar</h1>
+<h1 align="center">Pushkal Kumar</h1>
 
 <p align="center">
-Building AI-powered software, mobile applications, and research-driven technology.
+Software engineer building AI products, mobile apps, and research tools.
 </p>
 
 <p align="center">
-  Rising Senior • Software Engineer • AI Researcher • Mobile Developer
+Rising Senior &nbsp;·&nbsp; Software Engineer &nbsp;·&nbsp; AI Researcher &nbsp;·&nbsp; Mobile Developer
 </p>
 
----
+<br>
 
-## 🚀 About Me
+## About
 
-- 📱 Building **Pulse** — an all-in-one operating system for FBLA chapters.
-- 🧠 First-author researcher with papers accepted to **NeurIPS**, **AAAI**, and **HICSS** workshops.
-- 🔬 Conducting AI research with a Washington State University professor on a **patent-pending** machine learning & computer vision project.
-- 🥇 **FBLA National Champion** — Mobile Application Development
-- 🏆 **Top 4 Internationally** — DECA ICDC Finance Operations Research
-- 💡 Passionate about building software people actually use.
-- 🚀 Interested in Software Engineering, AI/ML, Mobile Development, and Product Engineering.
+I'm building **Pulse**, an app that replaces the spreadsheets and group chats FBLA chapters currently run on with one place for events, practice tests, and chapter analytics.
 
----
+Alongside that, I do AI research with a Washington State University professor on a patent-pending computer vision project, and I've published first-author work at NeurIPS, AAAI, and HICSS workshops. On the competition side: FBLA National Champion in Mobile Application Development, and top 4 internationally in DECA ICDC Finance Operations Research.
 
-# 💻 Tech Stack
+Most of what I build sits somewhere between software engineering, AI/ML, and mobile development.
 
-### Languages
+<br>
 
-<p>
+## Tech stack
+
+**Languages**
 <img src="https://skillicons.dev/icons?i=python,dart,swift,ts,js,java,cpp" />
-</p>
 
-### Mobile
+**Mobile**
+<img src="https://skillicons.dev/icons?i=flutter,firebase" /> &nbsp; SwiftUI · Riverpod
 
-<p>
-<img src="https://skillicons.dev/icons?i=flutter,firebase" />
-</p>
-
-**SwiftUI • Riverpod**
-
-### Frontend
-
-<p>
+**Frontend**
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
-</p>
 
-### Backend
-
-<p>
+**Backend**
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
-</p>
 
-### AI / Machine Learning
+**AI / ML**
+PyTorch · TensorFlow · OpenCV · scikit-learn · NumPy · Pandas
 
-```
-PyTorch • TensorFlow • OpenCV • scikit-learn
-NumPy • Pandas
-```
-
-### Databases
-
-<p>
+**Databases**
 <img src="https://skillicons.dev/icons?i=postgres,sqlite,firebase" />
-</p>
 
-### Cloud & DevOps
-
-<p>
+**Cloud & DevOps**
 <img src="https://skillicons.dev/icons?i=aws,gcp,docker,githubactions,git" />
-</p>
 
-### Tools
-
-<p>
+**Tools**
 <img src="https://skillicons.dev/icons?i=vscode,figma,xcode" />
-</p>
 
----
+<br>
 
-# ⭐ Featured Projects
+## Projects
 
-## 📱 Pulse
+**Pulse** — an operating system for FBLA chapters: event registration, practice exams, push notifications, member analytics, and a chapter dashboard, backed by Firebase.
+`Flutter` `Firebase` `Cloud Functions` `Firestore`
 
-> All-in-one operating system for FBLA chapters.
+**AI research** — work in computer vision, ed-tech, healthcare AI, and LLM applications, published at NeurIPS, AAAI, and HICSS workshops.
 
-Modernizes chapter management by combining communication, competition preparation, analytics, notifications, and event management into a single cross-platform application.
+**Other builds** — a running set of mobile apps, full-stack platforms, AI tools, and research code.
 
-### Features
+<br>
 
-- 📅 Event Registration
-- 📝 Practice Exams
-- 🔔 Push Notifications
-- 📊 Member Analytics
-- 👥 Chapter Dashboard
-- ☁️ Firebase Backend
+## Currently
 
-**Built With**
+| Building | Researching | Learning |
+|---|---|---|
+| Pulse | Computer vision | Distributed systems |
+| AI applications | LLM applications | Native iOS |
+| Developer tools | Applied ML | System design |
 
-`Flutter` • `Firebase` • `Cloud Functions` • `Firestore`
+<br>
 
----
-
-## 🤖 AI Research
-
-Applying machine learning to real-world problems.
-
-### Areas
-
-- Computer Vision
-- Educational Technology
-- Healthcare AI
-- Large Language Models
-- Applied Machine Learning
-
-**Publications**
-
-- NeurIPS Workshop
-- AAAI Workshop
-- HICSS
-
----
-
-## ⚙️ Developer Projects
-
-A growing collection of:
-
-- 📱 Mobile Apps
-- 🌐 Full-Stack Platforms
-- 🤖 AI Tools
-- ⚡ Automation Utilities
-- 🔬 Research Code
-- 🛠️ Developer Tooling
-
----
-
-# 🎯 Current Focus
-
-| Building | Research | Learning |
-|-----------|----------|----------|
-| Pulse | Machine Learning | Distributed Systems |
-| AI Applications | Computer Vision | Native iOS |
-| Mobile Software | LLM Applications | System Design |
-| Developer Tools | AI Research | High-Performance Backends |
-
----
-
-<p align="center">
-Always building. Always learning.
-</p>
+<p align="center"><sub>Always building, always learning.</sub></p>
