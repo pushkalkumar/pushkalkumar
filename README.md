@@ -12,7 +12,7 @@ I'm a rising senior interested in machine learning, software engineering, and bu
 * 🧠 First-author researcher with papers accepted to **NeurIPS**, **AAAI**, and **HICSS** workshops.
 * 🔬 Conducting AI research with a Washington State University professor on a patent-pending project involving machine learning and computer vision.
 * 🏆 Top 4 Internationally at **DECA ICDC** in Finance Operations Research.
-* 🥇 FBLA National Competitor.
+* 🥇 FBLA National Champion - Mobile Application Development.
 * 💡 Passionate about turning ambitious ideas into polished software that people actually use.
 * 🚀 Seeking opportunities in Software Engineering, AI/ML, Mobile Development, and Product Engineering.
 
@@ -90,12 +90,7 @@ Areas include:
 * Large Language Models
 * Applied Machine Learning
 
-Publications accepted at:
-
-* NeurIPS Workshops
-* AAAI Workshops
-* HICSS
-
+Publications accepted at NeurIPS & AAAI.
 ---
 
 ## Developer Projects
@@ -131,30 +126,3 @@ A growing collection of software projects including:
 * Native iOS Development
 * System Design
 * High-performance Backend Engineering
-
----
-
-# Engineering Philosophy
-
-I enjoy building products where thoughtful design meets technical depth. Whether it's creating intuitive mobile experiences, training machine learning models, or architecting scalable backend systems, my goal is the same: write clean software that delivers measurable impact.
-
-I believe great engineering isn't just about solving difficult problems—it's about solving the *right* problems with solutions that are reliable, elegant, and built to last.
-
----
-
-# GitHub
-
-Most of my repositories focus on:
-
-* 📱 Mobile Development
-* 🤖 Artificial Intelligence
-* 🌐 Full-Stack Engineering
-* 📊 Research
-* ⚡ Developer Tools
-* ☁️ Cloud Applications
-
----
-
-## Let's Connect
-
-I'm always interested in collaborating on impactful software, open-source projects, AI research, and ambitious engineering challenges.
