@@ -8,6 +8,6 @@ High school senior in Seattle (class of 2027). I research RAG security and build
 - Repeatability and Error Budget of a Consumer Structured-Light Scanner for 3-D Wound Geometry. First author, under review. [arXiv](https://arxiv.org/abs/2608.30143)
 - Two more RAG poisoning papers under review (one first author, with Washington State University).
 
-Pinned below is what I've built. Write-ups and the rest are on [my site](https://pushkalkumar.vercel.app).
+Pinned below is what I've built. Write-ups and the rest are on my personal website.
 
 [LinkedIn](https://www.linkedin.com/in/pushkalkumar/) · pushkalku@gmail.com
