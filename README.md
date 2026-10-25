@@ -10,4 +10,4 @@ High school senior in Seattle (class of 2027). I research RAG security and build
 
 Pinned below is what I've built. Write-ups and the rest are on my personal website.
 
-[LinkedIn](https://www.linkedin.com/in/pushkalkumar/) · pushkalku@gmail.com
+Contact me @ pushkalku@gmail.com
